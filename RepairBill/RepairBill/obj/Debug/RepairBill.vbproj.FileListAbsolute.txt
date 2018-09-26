@@ -1,0 +1,12 @@
+D:\Development\Visual Studio\2017\Udemy VB.NET\VB.NET_Repair-Bill\RepairBill\RepairBill\bin\Debug\RepairBill.exe.config
+D:\Development\Visual Studio\2017\Udemy VB.NET\VB.NET_Repair-Bill\RepairBill\RepairBill\bin\Debug\RepairBill.exe
+D:\Development\Visual Studio\2017\Udemy VB.NET\VB.NET_Repair-Bill\RepairBill\RepairBill\bin\Debug\RepairBill.pdb
+D:\Development\Visual Studio\2017\Udemy VB.NET\VB.NET_Repair-Bill\RepairBill\RepairBill\bin\Debug\RepairBill.xml
+D:\Development\Visual Studio\2017\Udemy VB.NET\VB.NET_Repair-Bill\RepairBill\RepairBill\obj\Debug\RepairBill.vbprojAssemblyReference.cache
+D:\Development\Visual Studio\2017\Udemy VB.NET\VB.NET_Repair-Bill\RepairBill\RepairBill\obj\Debug\RepairBill.Form1.resources
+D:\Development\Visual Studio\2017\Udemy VB.NET\VB.NET_Repair-Bill\RepairBill\RepairBill\obj\Debug\RepairBill.Resources.resources
+D:\Development\Visual Studio\2017\Udemy VB.NET\VB.NET_Repair-Bill\RepairBill\RepairBill\obj\Debug\RepairBill.vbproj.GenerateResource.cache
+D:\Development\Visual Studio\2017\Udemy VB.NET\VB.NET_Repair-Bill\RepairBill\RepairBill\obj\Debug\RepairBill.vbproj.CoreCompileInputs.cache
+D:\Development\Visual Studio\2017\Udemy VB.NET\VB.NET_Repair-Bill\RepairBill\RepairBill\obj\Debug\RepairBill.exe
+D:\Development\Visual Studio\2017\Udemy VB.NET\VB.NET_Repair-Bill\RepairBill\RepairBill\obj\Debug\RepairBill.xml
+D:\Development\Visual Studio\2017\Udemy VB.NET\VB.NET_Repair-Bill\RepairBill\RepairBill\obj\Debug\RepairBill.pdb
